@@ -13,11 +13,14 @@ Network ACLs
 VPC Flow Logs
 Architecture Summary
 Component	Count
-VPC	1
-Availability Zones	2
-Public Subnets	2
-Private App Subnets	2
-Private DB Subnets	2
-Internet Gateway	1
-NAT Gateways	2
-Route Tables	3
+
+| Component           | Count |
+| ------------------- | ----- |
+| VPC                 | 1     |
+| Availability Zones  | 2     |
+| Public Subnets      | 2     |
+| Private App Subnets | 2     |
+| Private DB Subnets  | 2     |
+| Internet Gateway    | 1     |
+| NAT Gateways        | 2     |
+| Route Tables        | 3     |

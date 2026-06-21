@@ -1,0 +1,24 @@
+aws-production-vpc-network-project/
+│
+├── README.md
+├── architecture/
+│   ├── aws-vpc-topology.drawio
+│   └── aws-vpc-topology.png
+│
+├── docs/
+│   ├── deployment-guide.md
+│   ├── ip-addressing-plan.md
+│   ├── route-table-design.md
+│   ├── security-design.md
+│   ├── nacl-rules.md
+│   └── lessons-learned.md
+│
+├── screenshots/
+│   ├── 01-vpc.png
+│   ├── 02-subnets.png
+│   ├── 03-route-tables.png
+│   ├── 04-nat-gateways.png
+│   ├── 05-security-groups.png
+│   └── 06-flow-logs.png
+│
+└── LICENSE

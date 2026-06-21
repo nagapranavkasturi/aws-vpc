@@ -12,7 +12,7 @@ Security Groups
 Network ACLs
 VPC Flow Logs
 Architecture Summary
-Component	Count
+
 
 | Component           | Count |
 | ------------------- | ----- |
